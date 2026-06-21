@@ -1,4 +1,4 @@
-### 🏠 House Price Prediction using Linear Regression
+# 🏠 House Price Prediction using Linear Regression
 
 ## 📌 Overview
 This project predicts house prices based on **area (in square feet)** using a simple linear regression model.  
@@ -87,6 +87,6 @@ As a fresher, it reflects my skills in Python programming, ML model building, vi
 ## 👤 Author
 
 Sagar Joshi  
-B.Tech CSE (AI & ML), Amrapali University
+B.Tech CSE (AI & ML)
 📧 Email: sj471846@gmail.com
 🔗 LinkedIn: (https://www.linkedin.com/in/sagar-joshi-775b15343)
